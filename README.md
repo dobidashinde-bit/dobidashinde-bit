@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Saurabh+Narale"/>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=150&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Saurabh+Narale"/>
 
 </div>
 
@@ -58,20 +58,15 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 <img src="https://cdn.simpleicons.org/autodesk" width="48"/>
 <img src="https://cdn.simpleicons.org/kicad" width="48"/>
-
-<br><br>
-
 <img src="https://cdn.simpleicons.org/tinkercad" width="48"/>
 
 <br>
 
-**Fusion 360**
+**Fusion 360** • **KiCad**
 
-**KiCad**
+<br>
 
-**Tinkercad**
-
-**Tinkercad Circuits**
+**Tinkercad** • **Tinkercad Circuits**
 
 </td>
 
@@ -100,15 +95,15 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 ## 🚀 Projects
 
-🎮 **Wordle**  
+### 🎮 Wordle
 JavaScript browser game  
 → https://github.com/dobidashinde-bit/wordle
 
-🏃 **Cyber Run**  
+### 🏃 Cyber Run
 Browser game  
 → https://github.com/dobidashinde-bit/cyber-run
 
-🌐 **Personal Website**  
+### 🌐 Personal Website
 My portfolio website  
 → https://dobidashinde-bit.github.io/
 
