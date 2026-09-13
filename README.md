@@ -1,46 +1,108 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Saurabh%20Narale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Robotics%20%7C%20Hardware%20%7C%20Software&descAlignY=60&descSize=20" width="100%"/>
+
+</div>
+
+<div align="center">
+
+# 👋 Hi, I'm Saurabh Narale
+
+### 🤖 Robotics • AI • Hardware • Software
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Learning+AI+%2B+Robotics+%2B+Hardware;Building+projects+and+learning+every+day;Programming+%7C+CAD+%7C+PCB+Design;Turning+ideas+into+real+projects+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
+
+Hi! I'm **Saurabh Narale**, a student and builder from **Maharashtra, India**.
+
+I'm interested in:
+
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- 💻 Computer Science
+- 🔧 Hardware & Electronics
+- 🔌 PCB Design
+- 📐 3D CAD & Mechanical Design
+- 🌐 Web Development
+- 🎮 Game Development
+- ⚙️ Automation
+
+I enjoy learning by **building projects and experimenting with technology**.
+
+My long-term goal is to combine:
+
+> **AI + Robotics + Electronics + Software + Hardware**
+
+---
+
 # 💻 Programming Languages
 
 ## ✅ Learned
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <strong>HTML</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Python</strong>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65"/>
+
+</div>
+
+<div align="center">
+
+**HTML** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Python**
+
+</div>
 
 ---
 
 ## 🚀 Currently Learning
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50" alt="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/>
-</p>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="55"/>
+
+</div>
+
+<div align="center">
+
+JavaScript • CSS • TypeScript • C • C++ • Java • Swift • Kotlin
+
+</div>
 
 ---
 
-# 🔧 CAD, 3D Design & PCB
+# 🔧 CAD & 3D Design
 
-## 📐 3D Design / CAD
+I'm starting my journey into **3D modeling, CAD and mechanical design**.
 
-<p align="left">
+## 🟠 Fusion 360
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="50" height="50" alt="CAD"/>
+<div align="center">
 
-</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Fusion360_Logo.svg" width="75"/>
 
-### 🟠 Fusion 360
+</div>
+
+<div align="center">
+
+**Fusion 360**
+
 🔄 Currently Learning
+
+</div>
+
+Learning:
 
 - 3D modeling
 - Mechanical design
@@ -48,8 +110,25 @@
 - Product design
 - Engineering design
 
-### 🟣 Tinkercad
+---
+
+## 🟣 Tinkercad
+
+<div align="center">
+
+<img src="https://www.gstatic.com/tinkercad/logo/tinkercad-logo-256.png" width="75"/>
+
+</div>
+
+<div align="center">
+
+**Tinkercad**
+
 🔄 Currently Learning
+
+</div>
+
+Learning:
 
 - 3D modeling
 - Basic CAD
@@ -60,16 +139,49 @@
 
 # 🔌 PCB & Electronics
 
-### 🟢 KiCad
+## 🟢 KiCad
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" width="75"/>
+
+</div>
+
+<div align="center">
+
+**KiCad**
+
 🔄 Currently Learning
+
+</div>
+
+Learning:
 
 - Circuit schematics
 - PCB layout
-- Components
-- PCB prototyping
+- Electronic components
+- PCB design
+- Hardware prototyping
 
-### 🔵 Tinkercad Circuits
+---
+
+## 🔵 Tinkercad Circuits
+
+<div align="center">
+
+<img src="https://www.gstatic.com/tinkercad/logo/tinkercad-logo-256.png" width="75"/>
+
+</div>
+
+<div align="center">
+
+**Tinkercad Circuits**
+
 🔄 Currently Learning
+
+</div>
+
+Learning:
 
 - Circuit simulation
 - Arduino
@@ -80,29 +192,27 @@
 
 ---
 
-# 🤖 Hardware & Robotics
+# 🛠️ Hardware Journey
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
-
-</p>
+<div align="center">
 
 ```text
-🔌 Electronics
+Electronics
      ↓
-⚡ Circuits
+Circuits
      ↓
-🤖 Microcontrollers
+Microcontrollers
      ↓
-📡 Sensors
+Sensors
      ↓
-⚙️ Motors
+Motors
      ↓
-🔌 PCB Design
+PCB Design
      ↓
-📐 3D CAD
+3D CAD
      ↓
-🦾 Robotics
+Mechanical Design
      ↓
-🧠 AI + Robotics
+Embedded Systems
+     ↓
+🤖 Robotics
