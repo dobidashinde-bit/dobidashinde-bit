@@ -1,6 +1,12 @@
 <div align="center">
 
-# Saurabh Narale
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Saurabh+Narale" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=AI+%7C+Robotics+%7C+Hardware+%7C+Software" />
 
 </div>
 
@@ -8,123 +14,41 @@
 
 ## 🌸 Who am I?
 
-Hi! I'm **Saurabh Narale**, a student and tech enthusiast from Maharashtra, India.  
-I enjoy building projects, learning new technologies, and exploring how software and hardware work together.
+Hi! I'm **Saurabh Narale**, a student and tech enthusiast from Maharashtra, India.
 
-I've learned **HTML and Python**, and I'm currently learning **JavaScript, CSS, TypeScript, C, C++, Java, Swift, and Kotlin**.
+I enjoy building projects and exploring **AI, Robotics, Electronics, Hardware, CAD and Software**.
 
-I'm also starting my journey into **3D CAD, electronics and PCB design** using **Fusion 360, KiCad, Tinkercad, and Tinkercad Circuits**.
+I've learned **HTML and Python** and I'm currently learning **JavaScript, CSS, TypeScript, C, C++, Java, Swift and Kotlin**.
 
-My main interests are **AI, Robotics, Hardware, Electronics, CAD and Computer Science**.
+I'm also learning **Fusion 360, KiCad, Tinkercad and Tinkercad Circuits**.
 
-- 🎯 Current focus → JavaScript, CSS, TypeScript, C/C++, CAD & PCB Design
-- 🤖 Interested in → AI, Robotics, Electronics, Hardware
+- 🎯 Current focus → Programming, CAD & PCB Design
+- 🤖 Interested in → AI, Robotics, Electronics & Hardware
 - 🚀 Goal → Build real-world projects combining software + hardware
 
 ---
 
 ## 🧰 Tech Toolbox
 
-<table align="center">
-<tr>
-<th>Languages</th>
-<th>CAD & PCB</th>
-<th>Tools</th>
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/html5" width="45">
-<img src="https://cdn.simpleicons.org/python" width="45">
-<img src="https://cdn.simpleicons.org/javascript" width="45">
-<img src="https://cdn.simpleicons.org/css" width="45">
-
-<br>
-
-<img src="https://cdn.simpleicons.org/typescript" width="45">
-<img src="https://cdn.simpleicons.org/c" width="45">
-<img src="https://cdn.simpleicons.org/cplusplus" width="45">
-<img src="https://cdn.simpleicons.org/java" width="45">
-
-<br>
-
-<img src="https://cdn.simpleicons.org/swift" width="45">
-<img src="https://cdn.simpleicons.org/kotlin" width="45">
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/autodesk" width="50">
-<img src="https://cdn.simpleicons.org/kicad" width="50">
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/tinkercad" width="50">
-<img src="https://cdn.simpleicons.org/tinkercad" width="50">
-
-<br>
-
-Fusion 360 • KiCad
-
-<br>
-
-Tinkercad • Tinkercad Circuits
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/git" width="45">
-<img src="https://cdn.simpleicons.org/github" width="45">
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="45">
-
-<br>
-
-<img src="https://cdn.simpleicons.org/arduino" width="45">
-<img src="https://cdn.simpleicons.org/vercel" width="45">
-
-</td>
-
-</tr>
-</table>
+| Languages | CAD & PCB | Tools |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> | **Fusion 360** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"> | **KiCad** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"> | **Tinkercad** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"> |
+| | **Tinkercad Circuits** | |
 
 ---
 
-## 🤖 Interests
+## 🚀 Projects
+
+- 🎮 [Wordle](https://github.com/dobidashinde-bit/wordle)
+- 🏃 [Cyber Run](https://github.com/dobidashinde-bit/cyber-run)
+- 🌐 [Personal Website](https://dobidashinde-bit.github.io/)
+
+---
 
 <div align="center">
 
-**AI** • **Robotics** • **Electronics** • **PCB Design** • **3D CAD** • **Hardware** • **Software**
+### 🚀 Build • Learn • Experiment • Repeat
 
 </div>
-
----
-
-## 📂 Projects
-
-- 🎮 **Wordle** → JavaScript game
-- 🏃 **Cyber Run** → Browser game
-- 🌐 **Personal Website** → Portfolio website
-- 🎮 **Sprig** → Game development
-
----
-
-## 🌱 Learning
-
-```text
-Programming
-    ↓
-Computer Science
-    ↓
-Electronics + PCB
-    ↓
-3D CAD
-    ↓
-Embedded Systems
-    ↓
-Robotics
-    ↓
-AI + Robotics
