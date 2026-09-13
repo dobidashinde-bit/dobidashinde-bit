@@ -27,11 +27,7 @@ My main interests are AI, Robotics, Electronics, Hardware and Computer Science. 
 
 ## 🔧 CAD & PCB
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Fusion360_Logo.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="55"/>
-<img src="https://www.gstatic.com/tinkercad/logo/tinkercad-logo-256.png" width="55"/>
-</p>
+
 
 **Learning:** Fusion 360 • KiCad • Tinkercad • Tinkercad Circuits
 
