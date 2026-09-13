@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=250&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Saurabh+Narale"/>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=500&pause=1800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Saurabh+Narale"/>
 
 </div>
 
@@ -24,7 +24,7 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 ## 🧰 Tech Toolbox
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
 
@@ -43,11 +43,11 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 **Learned:** HTML • Python
 
-**Learning:** JavaScript • CSS • TypeScript • C • C++ • Java • Swift • Kotlin
+**Currently Learning:** JavaScript • CSS • TypeScript • C • C++ • Java • Swift • Kotlin
 
 ---
 
-### 🔧 CAD & PCB
+### 🔧 CAD & PCB Design
 
 <p align="left">
 
@@ -59,11 +59,11 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 **Fusion 360** • **KiCad** • **Tinkercad** • **Tinkercad Circuits**
 
-🔄 Currently learning CAD, 3D design, circuits and PCB design.
+🔄 Currently learning **3D CAD, electronics, circuits and PCB design**.
 
 ---
 
-### 🛠️ Development Tools
+### 🛠️ Tools
 
 <p align="left">
 
@@ -74,11 +74,13 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 </p>
 
+**Git** • **GitHub** • **VS Code** • **Arduino**
+
 ---
 
 ## 🤖 Interests
 
-**AI** • **Robotics** • **Electronics** • **PCB Design** • **3D CAD** • **Hardware** • **Software**
+**AI** • **Robotics** • **Electronics** • **Hardware** • **PCB Design** • **3D CAD** • **Software** • **Game Development**
 
 ---
 
@@ -127,5 +129,7 @@ PCB Design
 Embedded Systems
       ↓
 Robotics
+      ↓
+AI
       ↓
 AI + Robotics
