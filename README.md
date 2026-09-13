@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=150&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Saurabh+Narale"/>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=250&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Saurabh+Narale"/>
 
 </div>
 
@@ -24,66 +24,55 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 
 ## 🧰 Tech Toolbox
 
-<table align="center">
-<tr>
-<th>Languages</th>
-<th>CAD & PCB</th>
-<th>Tools</th>
-</tr>
+### 💻 Languages
 
-<tr>
+<p align="left">
 
-<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+</p>
 
-<br>
+**Learned:** HTML • Python
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+**Learning:** JavaScript • CSS • TypeScript • C • C++ • Java • Swift • Kotlin
 
-<br>
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42"/>
+### 🔧 CAD & PCB
 
-</td>
+<p align="left">
 
-<td align="center">
+<img src="https://cdn.simpleicons.org/autodesk" width="50"/>
+<img src="https://cdn.simpleicons.org/kicad" width="50"/>
+<img src="https://cdn.simpleicons.org/tinkercad" width="50"/>
 
-<img src="https://cdn.simpleicons.org/autodesk" width="48"/>
-<img src="https://cdn.simpleicons.org/kicad" width="48"/>
-<img src="https://cdn.simpleicons.org/tinkercad" width="48"/>
+</p>
 
-<br>
+**Fusion 360** • **KiCad** • **Tinkercad** • **Tinkercad Circuits**
 
-**Fusion 360** • **KiCad**
+🔄 Currently learning CAD, 3D design, circuits and PCB design.
 
-<br>
+---
 
-**Tinkercad** • **Tinkercad Circuits**
+### 🛠️ Development Tools
 
-</td>
+<p align="left">
 
-<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -96,32 +85,47 @@ I'm also starting my journey into **3D CAD and PCB design** with **Fusion 360, K
 ## 🚀 Projects
 
 ### 🎮 Wordle
-JavaScript browser game  
-→ https://github.com/dobidashinde-bit/wordle
 
-### 🏃 Cyber Run
-Browser game  
-→ https://github.com/dobidashinde-bit/cyber-run
+A browser-based Wordle game.
 
-### 🌐 Personal Website
-My portfolio website  
-→ https://dobidashinde-bit.github.io/
+**GitHub:**  
+https://github.com/dobidashinde-bit/wordle
 
 ---
 
-## 🌱 Learning
+### 🏃 Cyber Run
+
+A browser-based game project.
+
+**GitHub:**  
+https://github.com/dobidashinde-bit/cyber-run
+
+---
+
+### 🌐 Personal Website
+
+My personal portfolio website.
+
+**Website:**  
+https://dobidashinde-bit.github.io/
+
+---
+
+## 🌱 Learning Journey
 
 ```text
 Programming
-     ↓
+      ↓
 Computer Science
-     ↓
-Electronics + PCB
-     ↓
+      ↓
+Electronics
+      ↓
+PCB Design
+      ↓
 3D CAD
-     ↓
+      ↓
 Embedded Systems
-     ↓
+      ↓
 Robotics
-     ↓
+      ↓
 AI + Robotics
