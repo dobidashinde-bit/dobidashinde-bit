@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Saurabh%20Narale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20AI%20%7C%20Hardware%20%7C%20Software&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Saurabh%20Narale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Robotics%20%7C%20Hardware%20%7C%20Software&descAlignY=60&descSize=20" width="100%"/>
 
 </div>
 
@@ -8,15 +8,15 @@
 
 # 👋 Hi, I'm Saurabh Narale
 
-### 🤖 Robotics & Hardware Enthusiast • 💻 Developer • 🧠 Future AI Engineer
+### 🤖 Robotics & Hardware Enthusiast • 💻 Developer • 🧠 AI Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Learning+AI+%2B+Robotics+%2B+Hardware;Python+%7C+HTML+%7C+JavaScript+%7C+C%2B%2B;Building+projects+and+learning+every+day+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Learning+AI+%2B+Robotics+%2B+Hardware;Python+%7C+HTML+%7C+JavaScript+%7C+C%2B%2B;Exploring+CAD+%2B+PCB+Design;Building+projects+and+learning+every+day+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 Hi! I'm **Saurabh Narale**, a student and builder from **Maharashtra, India**.
 
@@ -27,20 +27,21 @@ I'm interested in the intersection of:
 - 💻 Computer Science
 - 🔧 Hardware & Electronics
 - 🔌 PCB Design
+- 📐 3D CAD & Mechanical Design
 - ⚙️ Automation
 - 🌐 Web Development
 - 🎮 Game Development
 - 🚀 Building real-world projects
 
-I believe the best way to learn technology is to **build things**.
+I learn by **building, experimenting, breaking things, fixing them, and building again**.
 
-I'm currently expanding my programming knowledge across multiple languages while working toward my long-term goal of combining:
+My long-term goal is to combine:
 
-**AI + Robotics + Electronics + Software + Hardware**
+> **AI + Robotics + Electronics + Software + Hardware**
 
 ---
 
-# 💻 My Programming Journey
+# 💻 Programming Journey
 
 ## ✅ Languages I've Learned
 
@@ -51,10 +52,12 @@ I'm currently expanding my programming knowledge across multiple languages while
 </p>
 
 ### 🌐 HTML
+
 Learning and building websites and web interfaces.
 
 ### 🐍 Python
-Learning programming fundamentals, automation, problem solving and the foundation for AI/ML.
+
+Learning programming fundamentals, automation, problem solving and the foundations of AI/ML.
 
 ---
 
@@ -81,40 +84,65 @@ I'm learning these languages progressively through **projects, practice and prob
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🔧 CAD, 3D Design & PCB
 
-### 💻 Programming
+I'm also starting my journey into **3D design, CAD, electronics and PCB development**.
 
-<p align="left">
+## 📐 3D Design / CAD
 
-<img src="https://skillicons.dev/icons?i=html,python,javascript,css,typescript,c,cpp,java,swift,kotlin" />
+### 🟠 Fusion 360
 
-</p>
+🔄 **Currently Learning**
 
-### 🌐 Web Development
+Exploring:
 
-<p align="left">
+- 3D modeling
+- Mechanical design
+- Assemblies
+- Product design
+- Engineering concepts
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,tailwind" />
+### 🟣 Tinkercad
 
-</p>
+🔄 **Currently Learning**
 
-### 🔧 Hardware & Electronics
+Exploring:
 
-```text
-🤖 Robotics
-🔌 Electronics
-⚡ Microcontrollers
-🔧 Hardware Prototyping
-📐 PCB Design
-🧩 Embedded Systems
-🔩 Mechanical Design
+- 3D modeling
+- Basic design
+- Prototyping
+- Simple hardware concepts
 
-I enjoy learning by **building projects**, experimenting with hardware, writing code, and turning ideas into working prototypes.
+---
 
-Currently, I'm focusing on becoming stronger in:
+## 🔌 PCB & Electronics
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟢 KiCad
+
+🔄 **Currently Learning**
+
+Exploring:
+
+- Circuit schematics
+- PCB layout
+- Electronic components
+- PCB design
+- Hardware prototyping
+
+### 🔵 Tinkercad Circuits
+
+🔄 **Currently Learning**
+
+Exploring:
+
+- Circuit simulation
+- Arduino
+- Sensors
+- LEDs
+- Motors
+- Basic electronics
+
+---
+
+# 🛠️ Hardware Skills
+
