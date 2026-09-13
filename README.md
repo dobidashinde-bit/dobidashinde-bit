@@ -1,3 +1,10 @@
+Hey There 
+Hi! I'm Saurabh Narale, a student and tech enthusiast from Maharashtra, India. I enjoy learning by building projects and exploring how software and hardware work together.
+
+I'm currently exploring Python, HTML, JavaScript, CSS, TypeScript, C/C++, Java, Swift and Kotlin, while also starting my journey in 3D CAD and PCB design with Fusion 360, KiCad, Tinkercad and Tinkercad Circuits.
+
+My main interests are AI, Robotics, Electronics, Hardware and Computer Science. My goal is to build real-world projects that combine software + AI + hardware + robotics. 🚀
+
 ## 💻 Languages
 
 <p align="center">
