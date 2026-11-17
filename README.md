@@ -45,25 +45,4 @@ I'm interested in understanding how things work and turning ideas into real proj
 
 **Currently Learning:** JavaScript • CSS • TypeScript • C • C++ • Java • Swift • Kotlin
 
----
 
-## 🌐 Full-Stack Development
-
-```text
-Frontend
-   ↓
-HTML • CSS • JavaScript
-   ↓
-TypeScript
-   ↓
-React / Next.js
-   ↓
-Backend
-   ↓
-Node.js
-   ↓
-APIs
-   ↓
-Databases
-   ↓
-Full-Stack Applications
